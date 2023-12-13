@@ -7,7 +7,7 @@ const Testimonials = () => {
       <div className="flex flex-col md:flex-row items-center justify-between gap-12">
         <div className="md:w-1/2">
           <img
-            src="/public/images/home/testimonials/testimonials.png"
+            src="/images/home/testimonials/testimonials.png"
             alt=""
             className="rounded-2xl"
           />
@@ -29,17 +29,17 @@ const Testimonials = () => {
               <div className="avatar-group -space-x-6 rtl:space-x-reverse">
                 <div className="avatar">
                   <div className="w-12">
-                    <img src="/public/images/home/testimonials/testimonial1.png" />
+                    <img src="/images/home/testimonials/testimonial1.png" />
                   </div>
                 </div>
                 <div className="avatar">
                   <div className="w-12">
-                    <img src="/public/images/home/testimonials/testimonial2.png" />
+                    <img src="/images/home/testimonials/testimonial2.png" />
                   </div>
                 </div>
                 <div className="avatar">
                   <div className="w-12">
-                    <img src="/public/images/home/testimonials/testimonial2.png" />
+                    <img src="/images/home/testimonials/testimonial2.png" />
                   </div>
                 </div>
                 <div className="avatar placeholder">

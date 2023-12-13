@@ -5,25 +5,25 @@ const categoryItems = [
     id: 1,
     title: "Platos",
     des: "(10 variedades)",
-    image: "/public/images/home/category/img1.png",
+    image: "/images/home/category/img1.png",
   },
   {
     id: 1,
     title: "Sopas",
     des: "(5 variedades)",
-    image: "/public/images/home/category/img1.png",
+    image: "/images/home/category/img1.png",
   },
   {
     id: 1,
     title: "Postres",
     des: "(5 variedades)",
-    image: "/public/images/home/category/img1.png",
+    image: "/images/home/category/img1.png",
   },
   {
     id: 1,
     title: "Bebidas",
     des: "(6 variedades)",
-    image: "/public/images/home/category/img1.png",
+    image: "/images/home/category/img1.png",
   },
 ];
 

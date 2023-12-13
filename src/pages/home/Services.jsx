@@ -5,25 +5,25 @@ const serviceList = [
     id: 1,
     title: "Servicio de eventos",
     des: "Deleite a sus invitados con nuestros sabores y presentación",
-    image: "/public/images/home/services/icon1.png",
+    image: "/images/home/services/icon1.png",
   },
   {
     id: 2,
     title: "Entrega rapida",
     des: "Le entregamos su pedido puntualmente en la puerta de su casa",
-    image: "/public/images/home/services/icon2.png",
+    image: "/images/home/services/icon2.png",
   },
   {
     id: 3,
     title: "Pedidos en linea",
     des: "Explore el menú y haga su pedido fácilmente a través de Pedidos en línea",
-    image: "/public/images/home/services/icon3.png",
+    image: "/images/home/services/icon3.png",
   },
   {
     id: 4,
     title: "Tarjetas de regalo",
     des: "Regale una cena excepcional con las tarjetas regalo",
-    image: "/public/images/home/services/icon4.png",
+    image: "/images/home/services/icon4.png",
   },
 ];
 
