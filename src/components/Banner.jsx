@@ -5,15 +5,11 @@ const Banner = () => {
     <div className="section-container bg-gradient-to-r from-[#FAFAFA] from-0% to-[#FCFCFC] to-100%">
       <div className="py-24 flex flex-col md:flex-row-reverse justify-between items-center gap-8">
         <div className="md:w-1/2">
-          <img src="/public/images/home/banner.png" alt="" />
+          <img src="/images/home/banner.png" alt="" />
 
           <div className="flex flex-col md:flex-row items-center justify-around -mt-14 gap-4">
             <div className="flex bg-white py-2 px-3 rounded-2xl items-center gap-3 shadow-md w-64">
-              <img
-                src="/public/images/home/food.png"
-                alt=""
-                className="rounded-2xl"
-              />
+              <img src="/images/home/food.png" alt="" className="rounded-2xl" />
               <div className="space-y-1">
                 <h5 className="font-medium mb-1">Sopa Fideo</h5>
                 <div className="rating rating-sm">
