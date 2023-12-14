@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Cards = ({ item }) => {
   return (
     <div className="card w-96 bg-base-100 shadow-xl">
-      <Link to={`/menu/${item._id}`}>
+      <Link to="/">
         <figure>
           <img
             src={item.image}
@@ -14,7 +14,7 @@ const Cards = ({ item }) => {
         </figure>
       </Link>
       <div className="card-body">
-        <Link to={`/menu/${item._id}`}>
+        <Link to="7">
           <h2 className="card-title">{item.name}</h2>
         </Link>
         <p>Descripcion del plato</p>
